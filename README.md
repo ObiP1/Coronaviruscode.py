@@ -1,5 +1,6 @@
 # Coronaviruscode.py
 Question prompt lets users know their probability of contracting the virus based upon their country input.
+The rates are as of 6AM EST Time Monday March 9, 2020.
 The following contries are affected by the coronvirus as of 6AM EST Time Monday March 9, 2020.
 Afghanistan
 Albania
