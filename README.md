@@ -29,7 +29,6 @@ Chile
 China
 Colombia
 Congo
-Congo {Democratic Rep}
 Costa Rica
 Croatia
 Cuba
